@@ -1,0 +1,16 @@
+[
+  {
+    "name": "example-release-feed",
+    "url": "https://example.com/releases.xml",
+    "kind": "release",
+    "enabled": false,
+    "dub_team": "ExampleDub"
+  },
+  {
+    "name": "example-anime-news",
+    "url": "https://example.com/news.xml",
+    "kind": "news",
+    "enabled": false,
+    "dub_team": null
+  }
+]
